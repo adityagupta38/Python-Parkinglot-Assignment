@@ -65,7 +65,7 @@ cars = [1238452, 5736491, 9221984, 5632819, 6327982, 5631412, 5834654, 1332355, 
 # calling main method
 park_cars(cars)
 
-# print parking lot to see available & occupied spaces
+# print parking lot to see available & occupied spots
 print()
 print("parked or available spots in parking lot")
 print(parking_lot)
